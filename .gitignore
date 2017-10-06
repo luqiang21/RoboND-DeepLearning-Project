@@ -4,3 +4,5 @@ RoboND-Segmentation-Lab/data/validation/*
 *.pyc
 RoboND-DeepLearning-Project-master/data/sample_evaluation_data/*
 RoboND-DeepLearning-Project-master/data/raw_sim_data/*
+
+RoboND-DeepLearning-Project-master/data/runs/*
